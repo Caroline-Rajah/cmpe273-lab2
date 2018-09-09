@@ -1,0 +1,2 @@
+Carolines-MacBook-Pro:calculator caroline$ python3 calculator_client.py 
+The sum of 4 and 8 is 12
